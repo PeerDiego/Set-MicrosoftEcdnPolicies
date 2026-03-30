@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-This script configures a Windows computer with required Microsoft eCDN browser policies.
+This script configures a Windows computer with required Microsoft eCDN browser policies as of March 2026.
 
 .DESCRIPTION
 This script adds registry keys to a Windows computer for configuring Microsoft eCDN on the following browsers:
